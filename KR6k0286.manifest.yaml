@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR6k0286/v1
+canonical_location: https://kanripo.org/bkk/KR6k0286/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩薩瓔珞經自誓受菩薩五重戒法
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2271.xml
+    old_id: G104n2271
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0286_000.yaml, hash: 'sha256:c5392bd2a42f685051765c6283318035aa8d0ce686b41859986ee4cd2771f15a'}
+  - {seq: 1, filename: KR6k0286_001.yaml, hash: 'sha256:86a40c289616df721cf2d56c853d944249de623f89f0463850266bff7ee74950'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0286_001.markers.yaml, hash: 'sha256:226ab0a6b8cbba9bd061515af12ecffa8a128704349e5097c6c9bcfe4c5cf1d0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0286_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 1231
+  label: 菩薩瓔珞經自誓受菩薩五重戒法　依經錄出
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0286_G_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 依經錄出
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0286_G_001-mulu-2
+    span:
+    - body
+    - 561
+    - 561
+  label: 析疑
+  type: mulu
+  level: 1
+hash: sha256:aa654fa21aa9e410f0f23a46be0637538033f5ff562c19528fbde6a8ea47c8b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0286/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩瓔珞經自誓受菩薩五重戒法
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2271.xml
+    old_id: G104n2271
+hash: sha256:c5392bd2a42f685051765c6283318035aa8d0ce686b41859986ee4cd2771f15a
